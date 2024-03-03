@@ -39,10 +39,11 @@ Skills
 
 Teaching Assitant
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Undergraduate Lab at Electrical Engineering Department, SGSITS, Indore
+  * 8085 Microprocessor programming in Assembly Language
+  * Electronics project development using breadboard implementation
   
 Service
 ======
 * Technical support in maintaining Computer labs and Servers in the department
+* 
