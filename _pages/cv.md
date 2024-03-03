@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.E. in Digitial Techniques and Instrumentation, 2017
+* B.E. in Electrical and Electronics Engineering, 2014
 
-Work experience
+Technical Trainings
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June-July 2013: Vocational Trainee
+  * Centre for Research and Industrial Staff Performance, Bhopal
+  * PLC Programming and Applications(Siemens PLC)
+  * PLC Networking using PROFIBUS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2012: Vocational Trainee
+  * Madhya Pradesh Madhya Kshetra Vidyut Vitran Co. Ltd., Bhopal
+  * Transformer and Switchgear Maintenance and Repair
+  * DISCOM Operation Overview
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mentoring
+* Prototyping Electronics Product
+* Debugging Electronics Circuit
+  * Use of Digital and Analog Oscilloscopes
+  * Use of Multimeters
+  * Use of Function Generators
+* Circuit Simulations in PROTEUS
+* Microcontroller Programming in Assembly and C language
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+Teaching Assitant
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Technical support in maintaining Computer labs and Servers in the department
