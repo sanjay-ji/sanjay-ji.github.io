@@ -45,5 +45,5 @@ Teaching Assitant
   
 Service
 ======
-* Technical support in maintaining Computer labs and Servers in the department
-* 
+* Technical support in maintaining Computer labs and Linux Server in the department
+  
