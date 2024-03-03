@@ -1,15 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assitant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "SGSITS, Indore, Electrical Engineering Department"
+date: 2015-01-01
+location: "Indore, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Taught students in the Microprocessor 8085 Lab. Experiments included writing programs for 8085 microprocessor in assembly language, converting that program into HEX codes and then feeding those HEX codes
+into the 8085 microprocessor kit. The 8085 microprocessor kit comprised of keypads to feed in the HEX code and any input to 8085, and an LCD display to display the output.
 Heading 1
 ======
 
