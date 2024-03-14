@@ -3,7 +3,7 @@ title: "Teaching Assitant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "SGSITS, Indore, Electrical Engineering Department"
+venue: "Electrical Engineering Department, SGSITS, Indore."
 date: 2015-01-01
 location: "Indore, India"
 ---
