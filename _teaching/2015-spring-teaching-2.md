@@ -1,9 +1,9 @@
 ---
 title: "Course Coordinator"
 collection: teaching
-type: "Undergraduate"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "SGSITS, Indore"
+venue: "Electrical Engineering Department, SGSITS, Indore."
 date: 2016-01-01
 location: "Indore, India"
 ---
