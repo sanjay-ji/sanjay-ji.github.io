@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * M.E. in Digitial Techniques and Instrumentation, 2017
-  * Shri G.S. Institute of Technology & Science, Indore 
+  * Shri G.S. Institute of Technology & Science(SGSITS), Indore 
 * B.E. in Electrical and Electronics Engineering, 2014
-  * Oriental Institute of Science & Technology, Bhopal 
+  * Rajiv Gandhi Proudyogiki Vishwavidyalaya(RGPV), Bhopal 
 
 Technical Trainings
 ======
