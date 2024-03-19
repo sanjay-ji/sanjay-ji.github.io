@@ -1,6 +1,6 @@
 ---
 title: 'Mass-Spring-Damper System'
-date: 2013-08-14
+date: 2024-03-07
 permalink: /posts/mass-spring-damper/
 ---
 
