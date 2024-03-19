@@ -1,6 +1,6 @@
 ---
 title: 'Mass-Spring System'
-date: 2024-03-18
+date: 2024-03-01
 permalink: /posts/2024/03/mass-spring/
 ---
 
